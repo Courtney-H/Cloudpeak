@@ -1,3 +1,4 @@
+
 ~/repos/website/README.md
 
 # Sample Website
@@ -10,5 +11,3 @@ the email list](http://learnenough.com/#email_list) and [follow @learnenough
 ](http://twitter.com/learnenough) on Twitter.
 
 After finishing *Learn Enough™ Git to Be Dangerous*, I will begin converting this into a forum style website for posting dnd content in online games.
-
-~/repos/website/README.md
